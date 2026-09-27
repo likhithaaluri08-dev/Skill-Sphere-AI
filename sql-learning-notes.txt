@@ -1,0 +1,3 @@
+SkillSphere AI fictional demo learning material
+
+SQL joins combine rows from related tables. A LEFT JOIN keeps every row from the left table and includes matching rows from the right table. WHERE filters rows before aggregation; HAVING filters grouped results after GROUP BY. An index can improve lookup speed but may use extra storage and slow writes.
